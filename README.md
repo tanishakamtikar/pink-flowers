@@ -1,4 +1,4 @@
-# pink-flowers
+# flower-shop Web Application
 The Florals Web Application is an e-commerce platform designed for a flower shop, allowing users to browse, select, and purchase various floral products online. Built using PHP, MySQL, HTML, CSS, and JavaScript, this responsive and dynamic website provides a user-friendly interface for both customers and administrators.
 
 The core functionality of the website includes user registration and login, product browsing, wishlist and cart management, and secure order placement. Users can add items to their cart or wishlist using AJAX-based buttons, enabling a seamless experience without page reloads. The shopping cart supports quantity updates and item removal, and displays real-time totals. The checkout page includes a secure form where users enter delivery and payment information before finalizing their order.
